@@ -1,0 +1,21 @@
+h1, h2 {
+	text-align : center
+}
+
+h3 {
+	font-family : arial;
+	font-size : 16px;
+	font-weight : normal;
+}
+
+p {
+	font-family : arial;
+	font-size : 18px;
+	text-decoration : underline black;
+	text-align : center;
+}
+
+p1 {
+	font-size : 14px;
+	text-decoration : underline white;
+}
